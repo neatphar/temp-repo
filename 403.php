@@ -17,7 +17,7 @@
 
 html {
   background: #ccc;
-  font: bold 14px/20px "Trajan Pro", "Times New Roman", Times, serif;
+  font: bold 14px/20px "Trahan Pro", "Times New Roman", Times, serif;
   color: #430400;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.15); }
 
