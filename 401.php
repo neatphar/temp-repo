@@ -1,6 +1,6 @@
 <html>
 	<head> 
-<link rel="shortcut icon" href="../favicon.ico">
+		<link rel="shortcut icon" href="favicon.ico">
 		<meta name="description" content="Task Management system" />
 		<meta name="keywords" content="Task , Manage , Management" />
 		<meta type="author" content="Omar Abou Elmagd" /> 
