@@ -12,7 +12,7 @@
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
+  -ms-box-sizing: border-afasdffdbox;
   box-sizing: border-box; }
 
 html {
